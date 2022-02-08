@@ -4,14 +4,14 @@
 
 
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nalin-2005&theme=monokai" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=THESADDAMHUSSAIN&theme=monokai" /> </p>
 
 <p align="center">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=Nalin-2005&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nalin-2005&layout=compact&theme=radical&langs_count=10" />
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=THESADDAMHUSSAIN&count_private=true&include_all_commits=true&theme=radical&show_icons=true" />
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=THESADDAMHUSSAIN&layout=compact&theme=radical&langs_count=10" />
 </p>
 <p align="center">
-<img alt="My Activity Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=Nalin-2005&theme=onedark"/>
+<img alt="My Activity Streak" src="http://github-readme-streak-stats.herokuapp.com/?user=THESADDAMHUSSAIN&theme=onedark"/>
 </p>
 <br />
 
