@@ -37,7 +37,7 @@ I'm graduating in 2022 . Please feel free to get in touch with me via email at s
 <ul>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/THESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/quora.svg" height=15> Quora: <a href="https://www.quora.com/profile/THESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
-<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UTHESADDAMHUSSAIN">THESADDAMHUSSAIN/a></li>
+<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UTHESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/patreon.svg" height=15> Patreon: <a href="https://www.patreon.com/nalinangrish">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/website.svg" height=15> My Website: <a href="https://www.THESADDAMHUSSAIN.me">THESADDAMHUSSAINh.me</a></li>
 </ul>
