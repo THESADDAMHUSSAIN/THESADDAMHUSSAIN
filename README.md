@@ -35,10 +35,10 @@ I'm graduating in 2022 . Please feel free to get in touch with me via email at s
 <p><a href="THESADDAMHUSSAIN">IScan - The Indian Scanner App</a> This is a purely Indian Scanner app that provides you with an easy to use interface, quick usage and completely safe way of scanning as PDFs, Saving and Sharing them. This app turns your Android device into a fast, lightweight and portable document scanner. This application allows you to easily scan documents and share them using your preferred mode of file sharing.</p>
 <h1>Connect with me</h1>
 <ul>
-<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/THESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
+<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/instagram.svg" height=15> Instagram: <a href="https://www.instagram.com/THESADDAMmmHUSSAIN">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/quora.svg" height=15> Quora: <a href="https://www.quora.com/profile/THESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/youtube.svg" height=15> Youtube: <a href="https://www.youtube.com/channel/UTHESADDAMHUSSAIN">THESADDAMHUSSAIN</a></li>
-<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/patreon.svg" height=15> Patreon: <a href="https://www.patreon.com/nalinangrish">THESADDAMHUSSAIN</a></li>
+<li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/patreon.svg" height=15> Patreon: <a href="https://www.patreon.com/thesaddamhussain">THESADDAMHUSSAIN</a></li>
 <li><img src="https://raw.githubusercontent.com/THESADDAMHUSSAIN/THESADDAMHUSSAIN/master/icons/website.svg" height=15> My Website: <a href="https://www.THESADDAMHUSSAIN.me">THESADDAMHUSSAINh.me</a></li>
 </ul>
 <hr>
